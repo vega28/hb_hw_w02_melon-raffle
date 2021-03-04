@@ -1,0 +1,6 @@
+secrets.sh
+*.pyc
+.DS_Store
+env
+version2/customers.txt
+customers.txt
